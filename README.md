@@ -16,8 +16,8 @@
 * Feature 2:Reservation
 * Feature 3:Search Station
 * Feature 4:View reservation history
-* Feature 5:edit porfile
-* Feature 6:comfirm reservation
+* Feature 5:Edit porfile
+* Feature 6:Comfirm reservation
 
 ---
 
