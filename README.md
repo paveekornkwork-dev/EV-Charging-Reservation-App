@@ -23,3 +23,10 @@
 
 ## 🛠 Tech Used
 * Java
+
+---
+
+## ⚙️ How to Run
+1. Clone the repository
+2. Open the project in code editor
+3. Run the `Main.java` file
