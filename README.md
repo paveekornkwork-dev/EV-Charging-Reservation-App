@@ -146,7 +146,7 @@ Possible improvements for future versions:
 
 ## 👩‍💻 Author
 
-**Paweekorn Kaewwattana (Prae)**  
+**Paveekorn Kaewwattana (Prae)**  
 Computer Science Student  
 Faculty of Science and Technology  
 Huachiew Chalermprakiet University  
